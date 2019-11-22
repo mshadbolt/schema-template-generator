@@ -1,1 +1,1 @@
-web: gunicorn generator:app
+web: python generator/template_generator_app.py
